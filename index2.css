@@ -1,0 +1,82 @@
+.conteiner-fluid {
+  display: flex;
+}
+.nav-link {
+  color: white;
+}
+.verde {
+  color: rgb(144, 216, 35);
+}
+
+.img {
+  filter: brightness(0.5);
+}
+
+.carousel-caption {
+  justify-content: end;
+  align-items: end;
+  text-align: end;
+  padding-bottom: 13rem;
+  padding-left: 16rem;
+}
+
+#comprarTickets {
+  background-color:rgb(144, 216, 35);
+  border-color: rgb(144, 216, 35);
+  margin-left: 1rem;
+}
+.center {
+  text-align: center;
+}
+.fila{
+  display: flex; 
+  justify-content: center; 
+}
+.img-responsive {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  padding-right: -15rem;
+}
+.cuadrado-negro{
+  max-width: 50%;
+  background-color: rgba(0, 0, 0, 0.664);
+  color: white;
+  padding: 20px;
+  height: auto;
+}
+
+.form-conteiner {
+  padding: 10rem;
+  margin-top: -10rem;
+  padding-left: 15rem;
+  padding-right: 15rem;
+  margin-bottom: -9rem;
+  align-items: center;
+}
+textarea {
+  margin-top: 1rem;
+}
+#boton {
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  background-color: rgb(144, 216, 35);
+  border-color: rgb(144, 216, 35);
+  
+}
+
+.footer-container {
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  height: 6rem;
+  background-color: #0c274ea9;
+  color: white;
+  padding: 20px;
+}
+
+.footer-item {
+  margin: 40px;
+  margin-top: 1rem;
+}

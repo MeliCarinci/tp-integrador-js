@@ -1,0 +1,57 @@
+.cuadrado {
+    width: 18rem;
+    height: 12rem;
+    margin: 2px; /* Espacio entre los cuadrados */
+    margin-top: 30px;
+    text-align: center;
+    padding: 1rem;
+    
+ }
+
+.azul {
+  margin-left: 9rem;
+  border: 1px solid;
+  border-color: blue;
+}
+
+.cuadradoVerde {
+  border: 1px solid;
+  border-color: green;
+}
+
+.amarillo {
+    margin-right: 9rem;
+  border: 1px solid;
+  border-color: yellow;
+}
+
+
+.form-conteiner {
+  padding: 10rem;
+  padding-left: 15rem;
+  padding-right: 15rem;
+}
+.colum {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+
+
+#botonCalcular,#botonBorrar{
+  width: 100%;
+  background-color: rgb(144, 216, 35);
+  border-color: rgb(144, 216, 35);
+}
+#botonCalcular{
+  margin-left:1rem;
+}
+
+
+.uno {
+  margin-right: 1rem;
+}
+.alert {
+  margin-top: 2rem;
+  text-align: left;
+}
